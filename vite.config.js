@@ -7,5 +7,5 @@ export default defineConfig({
   server: {
     port: 3000, // Use a different port
   },
-  base:"/mani-portfolio/"
+  base:"/mk-portfolio/"
 })
